@@ -5,7 +5,9 @@
 
 **Datasets Used**
 Pittsburgh Police Arrest Data: https://data.wprdc.org/dataset/arrest-data 
+
 Parking Meters Pittsburgh Parking Authority: https://data.wprdc.org/dataset/parking-meters-pittsburgh-parking-authority
+
 City of Pittsburgh Playgrounds: https://data.wprdc.org/dataset/playgrounds
 
 **Abstract**
